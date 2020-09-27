@@ -1,0 +1,202 @@
+D:\KalWeb\KalWeb\KalWeb\obj\Debug\KalWeb.csprojAssemblyReference.cache
+D:\KalWeb\KalWeb\KalWeb\obj\Debug\KalWeb.csproj.CoreCompileInputs.cache
+D:\KalWeb\KalWeb\KalWeb\bin\KalWeb.dll.config
+D:\KalWeb\KalWeb\KalWeb\bin\KalWeb.dll
+D:\KalWeb\KalWeb\KalWeb\bin\KalWeb.pdb
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\csc.exe
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\csc.exe.config
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\csc.rsp
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\csi.exe
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\csi.rsp
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\System.AppContext.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\vbc.exe
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\vbc.exe.config
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\vbc.rsp
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\VBCSCompiler.exe
+D:\KalWeb\KalWeb\KalWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\KalWeb\KalWeb\KalWeb\bin\Antlr3.Runtime.dll
+D:\KalWeb\KalWeb\KalWeb\bin\EntityFramework.dll
+D:\KalWeb\KalWeb\KalWeb\bin\EntityFramework.SqlServer.dll
+D:\KalWeb\KalWeb\KalWeb\bin\EPPlus.dll
+D:\KalWeb\KalWeb\KalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KalWeb\KalWeb\KalWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\KalWeb\KalWeb\KalWeb\bin\Newtonsoft.Json.dll
+D:\KalWeb\KalWeb\KalWeb\bin\System.Net.Http.Formatting.dll
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Helpers.dll
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Http.dll
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Http.WebHost.dll
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Mvc.dll
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Optimization.dll
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Razor.dll
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.WebPages.Deployment.dll
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.WebPages.dll
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.WebPages.Razor.dll
+D:\KalWeb\KalWeb\KalWeb\bin\WebGrease.dll
+D:\KalWeb\KalWeb\KalWeb\bin\EntityFramework.xml
+D:\KalWeb\KalWeb\KalWeb\bin\EntityFramework.SqlServer.xml
+D:\KalWeb\KalWeb\KalWeb\bin\EPPlus.xml
+D:\KalWeb\KalWeb\KalWeb\bin\System.Net.Http.Formatting.xml
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Http.xml
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Http.WebHost.xml
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Helpers.xml
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Mvc.xml
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Optimization.xml
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.Razor.xml
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.WebPages.xml
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.WebPages.Deployment.xml
+D:\KalWeb\KalWeb\KalWeb\bin\System.Web.WebPages.Razor.xml
+D:\KalWeb\KalWeb\KalWeb\bin\Newtonsoft.Json.xml
+D:\KalWeb\KalWeb\KalWeb\bin\Antlr3.Runtime.pdb
+D:\KalWeb\KalWeb\KalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KalWeb\KalWeb\KalWeb\obj\Debug\KalWeb.csproj.CopyComplete
+D:\KalWeb\KalWeb\KalWeb\obj\Debug\KalWeb.dll
+D:\KalWeb\KalWeb\KalWeb\obj\Debug\KalWeb.pdb
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\KalWeb.dll.config
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\KalWeb.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\KalWeb.pdb
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\csc.exe
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\csc.exe.config
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\csc.rsp
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\csi.exe
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\csi.rsp
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\System.AppContext.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\vbc.exe
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\vbc.exe.config
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\vbc.rsp
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\VBCSCompiler.exe
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\Antlr3.Runtime.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\EntityFramework.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\EntityFramework.SqlServer.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\EPPlus.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\Newtonsoft.Json.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Net.Http.Formatting.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Helpers.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Http.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Http.WebHost.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Mvc.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Optimization.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Razor.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.WebPages.Deployment.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.WebPages.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.WebPages.Razor.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\WebGrease.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\EntityFramework.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\EntityFramework.SqlServer.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\EPPlus.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Net.Http.Formatting.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Http.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Http.WebHost.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Helpers.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Mvc.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Optimization.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.Razor.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.WebPages.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.WebPages.Deployment.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\System.Web.WebPages.Razor.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\Newtonsoft.Json.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\Antlr3.Runtime.pdb
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\obj\Debug\KalWeb.csprojAssemblyReference.cache
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\obj\Debug\KalWeb.csproj.CoreCompileInputs.cache
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\obj\Debug\KalWeb.csproj.CopyComplete
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\obj\Debug\KalWeb.dll
+D:\KalWeb\Lokesh Sir Pro\KalApiWeb\KalWeb\obj\Debug\KalWeb.pdb
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\KalWeb.dll.config
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\KalWeb.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\KalWeb.pdb
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\csc.exe
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\csc.exe.config
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\csc.rsp
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\csi.exe
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\csi.rsp
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\System.AppContext.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\vbc.exe
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\vbc.exe.config
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\vbc.rsp
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\VBCSCompiler.exe
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\Antlr3.Runtime.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\EntityFramework.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\EntityFramework.SqlServer.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\EPPlus.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\Newtonsoft.Json.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Net.Http.Formatting.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Helpers.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Http.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Http.WebHost.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Mvc.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Optimization.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Razor.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.WebPages.Deployment.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.WebPages.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.WebPages.Razor.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\WebGrease.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\EntityFramework.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\EntityFramework.SqlServer.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\EPPlus.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Net.Http.Formatting.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Http.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Http.WebHost.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Helpers.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Mvc.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Optimization.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.Razor.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.WebPages.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.WebPages.Deployment.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\System.Web.WebPages.Razor.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\Newtonsoft.Json.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\Antlr3.Runtime.pdb
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\obj\Debug\KalWeb.csprojResolveAssemblyReference.cache
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\obj\Debug\KalWeb.dll
+E:\Working\Sarathi\WebCode\KALWebApp\KalWeb\obj\Debug\KalWeb.pdb
