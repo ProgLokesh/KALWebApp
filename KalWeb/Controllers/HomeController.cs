@@ -30,6 +30,11 @@ namespace KalWeb.Controllers
             return View();
         }
 
+        public ActionResult DeleteCases()
+        {
+            return View();
+        }
+
         public ActionResult Upload()
         {
             //Session.Clear();
@@ -804,7 +809,6 @@ namespace KalWeb.Controllers
 
         public string GetUserData()
         {
-            
             con = new SqlConnection(ConfigurationManager.ConnectionStrings["Model11"].ToString());
             cmd = new SqlCommand("GetUser", con);
             cmd.CommandType = CommandType.StoredProcedure;
@@ -871,5 +875,30 @@ namespace KalWeb.Controllers
             return serializer.Serialize(list);
         }
 
+        [HttpGet]
+        public String DownloadCases()
+        {
+            DataTable dttbl = new DataTable();
+
+            con = new SqlConnection(ConfigurationManager.ConnectionStrings["Model11"].ToString());
+            cmd = new SqlCommand("getUserCases", con);
+            cmd.CommandType = CommandType.StoredProcedure;
+
+            cmd.Parameters.AddWithValue("@MUserID", 1);
+            cmd.Parameters.AddWithValue("@MAgencyID", 1);
+            cmd.Parameters.AddWithValue("@MCompId", 1);
+            da = new SqlDataAdapter(cmd);
+            con.Open();
+          
+            da.Fill(dttbl);
+            Response.Write(dttbl);
+            con.Close();
+            da.Dispose();
+
+            return ToJson(dttbl);
+        }
+
     }
+
+    
 }
